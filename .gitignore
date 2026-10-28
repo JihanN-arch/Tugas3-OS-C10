@@ -1,0 +1,4 @@
+*.o
+*.d
+tugas3_static
+tugas3_dynamic
