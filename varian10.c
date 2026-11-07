@@ -1,9 +1,9 @@
 /*
  * varian10.c - Peta Segmen Memori & Simbol Biner (Anggota 5)
  *
- * STUB: Anggota 5 ganti isinya: buat variabel lokal, global
- * terinisialisasi, BSS, fungsi, cetak alamat masing-masing, lalu
- * cocokkan dengan /proc/self/maps.
+ * Menampilkan alamat memori pada segmen Text, Data, BSS, Heap,
+ * dan Stack, serta pemetaan memori proses melalui /proc/self/maps
+ * untuk mengidentifikasi lokasi dan hak akses setiap segmen.
  */
 
 
