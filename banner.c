@@ -7,7 +7,7 @@
 /* TODO: isi nama dan NPM seluruh anggota kelompok C10 */
 static const char *anggota[] = {
     "Anggota 1 - Fanny (NPM ...)",
-    "Anggota 2 - <nama> (NPM ...)",
+    "Anggota 2 - Violin (NPM 2506551794)",
     "Anggota 3 - <nama> (NPM ...)",
     "Anggota 4 - <nama> (NPM ...)",
     "Anggota 5 - <nama> (NPM ...)"
