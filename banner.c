@@ -10,7 +10,7 @@ static const char *anggota[] = {
     "Anggota 2 - Violin Monica (NPM 2506551794)",
     "Anggota 3 - Jihan Nabilah (NPM 2506549026)",
     "Anggota 4 - Rindu Nadhirah (NPM 2506587121)",
-    "Anggota 5 - Leow Vincet Vintizel (NPM 2506611856)"
+    "Anggota 5 - Leow Vincent Vintizel (NPM 2506611856)"
 };
 
 void banner_print_identity(void)
