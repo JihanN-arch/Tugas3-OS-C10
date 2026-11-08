@@ -1,0 +1,5 @@
+
+You picked malloc/free.
+VmSize Before: 2772 KB | VmRSS Before: 2012 KB
+How many integers to allocate: 
+Input tidak valid (masukkan angka 1 - 268435456).
