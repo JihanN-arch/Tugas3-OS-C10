@@ -1,0 +1,20 @@
+
+You picked mmap/munmap.
+VmSize Before: 2772 KB | VmRSS Before: 2076 KB
+How many integers to allocate: 1234
+
+Starting memory address: 0x7c5468943000
+Printing first 10 values in reverse order:
+1234
+1233
+1232
+1231
+1230
+1229
+1228
+1227
+1226
+1225
+
+VmSize After: 2780 KB | VmRSS After: 2084 KB
+Perubahan: VmSize +8 KB | VmRSS +8 KB

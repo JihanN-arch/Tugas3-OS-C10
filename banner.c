@@ -9,7 +9,7 @@ static const char *anggota[] = {
     "Anggota 1 - Stephanie R. Tamus (NPM 2506547153)",
     "Anggota 2 - Violin Monica (NPM 2506551794)",
     "Anggota 3 - Jihan Nabilah (NPM 2506549026)",
-    "Anggota 4 - Rindu Nadhirah (NPM 2506587121)",
+    "Anggota 4 - Rindu Nadhirah (NPM 2506587131)",
     "Anggota 5 - Leow Vincent Vintizel (NPM 2506611856)"
 };
 
